@@ -19,8 +19,7 @@ AI/ML Engineer in a research project at **zeszyt.online**, developing AI-driven 
 
 - 🏆 **Hackathons (team CombAIns):** HackCarpathia 2026 Grand Prize & 1st place MedTech · HackCarpathia 2025 1st place (AI LOT) · Bit n Build 2025 international winner · HackNation 2025 1st place & finalist
 - 🧑‍⚖️ **Mentoring:** juror & mentor at the 11th BEST Hacking League
-- 🐦 **Off-screen:** wildlife & bird photographer, 3× winner of the *Ptaki w polskim krajobrazie jesienno-zimowym* photo competition
-
+- 🐦 **Off-screen:** wildlife & bird photographer
 ---
 
 ## AI / ML Stack
