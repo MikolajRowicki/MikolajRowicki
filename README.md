@@ -15,7 +15,7 @@
 
 ---
 
-AI/ML Engineer in a research project at **zeszyt.online**, developing AI-driven personalised learning of mathematics for primary school students: a student skill-assessment model and an LLM writer–judge pipeline that generates personalised feedback on homework. Data Science MSc student (Individual Studies Programme) at the Faculty of Mathematics and Information Science, Warsaw University of Technology. Most at home with **local LLMs**, **PyTorch** and taking models from prototype to production.
+AI/ML Engineer in a research project at **zeszyt.online**, developing AI-driven personalised learning of mathematics for primary school students. Data Science MSc student (Individual Studies Programme) at the Faculty of Mathematics and Information Science, Warsaw University of Technology. Most at home with **local LLMs**, **PyTorch** and taking models from prototype to production.
 
 - 🏆 **Hackathons (team CombAIns):** HackCarpathia 2026 Grand Prize & 1st place MedTech · HackCarpathia 2025 1st place (AI LOT) · Bit n Build 2025 international winner · HackNation 2025 1st place & finalist
 - 🧑‍⚖️ **Mentoring:** juror & mentor at the 11th BEST Hacking League
