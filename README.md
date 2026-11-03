@@ -62,7 +62,7 @@ AI/ML Engineer in a research project at **zeszyt.online**, developing AI-driven 
 | Project | Result | Description | Stack |
 |---|---|---|---|
 | Bądź Gotowa | **HackCarpathia 2026** · Grand Prize & 1st place MedTech | LLM-based educational app helping young women prepare for a gynaecological visit, deployed on GCP | Django, LLM API, GCP |
-| [KAS Anomaly Vision](https://github.com/MikolajRowicki/KAS_HackNation) | **HackNation 2025** · 1st place | Anomaly detection in X-ray scans of vehicles for customs inspection, with a web interface | Python, computer vision, Django |
+| [KAS Anomaly Vision](https://github.com/MikolajRowicki/KAS_HackNation) | **HackNation 2025** · Finalist | Anomaly detection in X-ray scans of vehicles for customs inspection, with a web interface | Python, computer vision, Django |
 | [CampaignStrategist](https://github.com/MikolajRowicki/CampaignStrategist) | **Bit n Build 2025** · international winner | Browser app generating complete marketing campaigns (text & images) with AI ([live demo](https://filiplangiewicz.github.io/CampaignStrategist/)) | JavaScript, Gemini API |
 | [CombAIns_LOT](https://github.com/MikolajRowicki/CombAIns_LOT) | **HackCarpathia 2025** · 1st place AI LOT | Winning AI solution for the LOT Polish Airlines challenge | Python, ML |
 
