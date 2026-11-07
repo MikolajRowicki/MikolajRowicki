@@ -8,9 +8,6 @@
   <a href="mailto:mikolajr2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="Mikolaj_Rowicki_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-2B4C7E?style=for-the-badge&logo=readdotcv&logoColor=white"/>
-  </a>
 </p>
 
 ---
