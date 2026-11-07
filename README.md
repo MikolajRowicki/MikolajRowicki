@@ -35,8 +35,6 @@ AI/ML Engineer in a research project at **zeszyt.online**, developing AI-driven 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
-`Local LLMs (Qwen)` · `4-bit quantisation` · `LLM-as-a-judge pipelines` · `Vision Transformers` · `CNNs` · `Explainable AI (SHAP, LIME)` · `AutoML`
-
 #### Apps & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
